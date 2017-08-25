@@ -1,0 +1,1 @@
+I noticed that my Java version of Jacobi was slower than the C version.
