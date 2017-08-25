@@ -11,4 +11,4 @@ Jacobi:
 	javac -cp . *.java
 	jar cfm Jacobi.jar manifest.mf *.class
 clean:
-	/bin/rm -f *.o
+	/bin/rm -f *.o *.class jacobi Jacobi.jar
