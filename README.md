@@ -8,4 +8,4 @@ Usage: ./jacobi grid_size number_of_worker_threads [left] [top] [right] [bottom]
 
 Usage: java Jacobi.jar grid_size number_of_worker_threads [left] [top] [right] [bottom] [epsilon]
 
-Credit goes to Rick Mercer for giving the assignment.
+Credit goes to Patrick Homer for giving the assignment.
